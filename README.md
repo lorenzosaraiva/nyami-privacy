@@ -82,7 +82,7 @@ We may update this Privacy Policy from time to time to reflect changes in the ap
 
 If you have any questions or concerns about this Privacy Policy or Nyami's privacy practices, please contact us at:
 
-**Email:** [YOUR_EMAIL@domain.com]
+**Email:** [lorenzo.saraiva@hotmail.com]
 
 ---
 
@@ -164,4 +164,4 @@ Podemos atualizar esta Política de Privacidade periodicamente para refletir mud
 
 Se você tiver dúvidas ou preocupações sobre esta Política de Privacidade ou as práticas de privacidade do Nyami, entre em contato conosco:
 
-**Email:** [SEU_EMAIL@dominio.com]
+**Email:** [lorenzo.saraiva@hotmail.com]
